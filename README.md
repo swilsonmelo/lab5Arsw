@@ -1,7 +1,7 @@
 # lab5Arsw
 
-in this lab we used Gradle
+In this lab we used Gradle
 
-Compile wiht Gradle: gradle build
+Compile with Gradle: gradle build
 
-run spring with gradle: gradle bootRun
+Run spring with gradle: gradle bootRun
